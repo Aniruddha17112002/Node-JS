@@ -1,5 +1,5 @@
 let time = 1;
-console.log('Hello, I am Anurag Singh.');
+console.log('Hello, I am Aniruddha Ruikar.');
 setInterval(() => {
   console.log(time++);
 }, 1000);
