@@ -292,7 +292,7 @@ Because:
 
 *   You are **reassigning exports**
     
-*   module.exports is still pointing to {}
+*   module.exports is still pogit inting to {}
     
 
 📌 Now:
